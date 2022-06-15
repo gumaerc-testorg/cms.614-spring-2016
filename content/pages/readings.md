@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Introduction
 
 Collins, Randall, and Michael Makowsky. "Society and Illusion." In _The Discovery of Society_. 8th edition. McGraw-Hill, 2009. ISBN: 9780073404196.
 
-Edwards, Paul N. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[How to Read a Book, v5.0 (PDF)](http://pne.people.si.umich.edu/PDF/howtoread.pdf)." University of Michigan School of Information.
+Edwards, Paul N. "[How to Read a Book, v5.0 (PDF)](http://pne.people.si.umich.edu/PDF/howtoread.pdf)." University of Michigan School of Information.
 
 
 {{< tdclose >}}

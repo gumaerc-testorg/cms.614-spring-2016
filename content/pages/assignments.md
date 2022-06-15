@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides keywords for readings and guidelines for book review
+  assignments and the final paper for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
