@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides keywords for readings and guidelines for book review
+  assignments and the final paper for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4cd4f8ab-5df4-5776-0d04-808276c19afa
 ---
