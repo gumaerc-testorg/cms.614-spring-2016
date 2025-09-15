@@ -4,7 +4,8 @@ description: An elaborate Mr. Robot marketing display at South by Southwest (SXS
   in Austin, TX. Mr. Robot is an American television series that focuses on hacktivism,
   which is also a topic covered in this course. Image courtesy of Andrew Hyde on flickr.
   License CC BY.
-file: /courses/cms-614-network-cultures-spring-2016/77fc884a786455112c69133f83df790b_cms-614s16-th.jpg
+file: /ol-ocw-studio-app/courses/cms-614-network-cultures-spring-2016/77fc884a786455112c69133f83df790b_cms-614s16-th.jpg
+file_size: 7698
 file_type: image/jpeg
 image_metadata:
   caption: An elaborate Mr. Robot marketing display at South by Southwest (SXSW) in
