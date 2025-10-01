@@ -7,12 +7,12 @@ title: Related Resources
 uid: f077fab3-62e3-5f39-3186-b1594da77186
 ---
 
-Jernigan, Carter, and Behram F. T. Mistree. "[Gaydar: Facebook Friendships Expose Sexual Orientation](http://firstmonday.org/article/view/2611/2302)." _First Monday_ 14, no. 10 (2009).
+Jernigan, Carter, and Behram F. T. Mistree. "{{% resource_link "532270a2-f3ba-4fff-aeb4-ade7778d8bf7" "Gaydar: Facebook Friendships Expose Sexual Orientation" %}}." _First Monday_ 14, no. 10 (2009).
 
-Baker, Mills. "[Containing Multitudes](https://themanual.org/read/issues/5/mills-baker/article)." _The Manual_, no. 5.
+Baker, Mills. "{{% resource_link "520f7728-aa8b-4e8a-bcd4-6f62c1e1a012" "Containing Multitudes" %}}." _The Manual_, no. 5.
 
-Rutherford, Fiona, and Alan White. "[This Is Why Some People Think Google's Results are 'Racist'](https://www.buzzfeed.com/fionarutherford/heres-why-some-people-think-googles-results-are-racist?utm_term=.bi3oWaJKn#.yxRNaMXD5)," _BuzzFeed_, April 12, 2016.
+Rutherford, Fiona, and Alan White. "{{% resource_link "86d49131-c725-4889-abc2-f1b6d1fbde35" "This Is Why Some People Think Google's Results are 'Racist'" %}}," _BuzzFeed_, April 12, 2016.
 
-Narayanan, Arvind, and Vitaly Shmatikov. ["Robust De-anonymization of Large Datasets: (How to Break Anonymity of the Netflix Prize Dataseet)." (PDF)](http://arxiv.org/pdf/cs/0610105.pdf)
+Narayanan, Arvind, and Vitaly Shmatikov. {{% resource_link "617131a3-f7fe-41d6-93a7-e81e38423944" "\"Robust De-anonymization of Large Datasets: (How to Break Anonymity of the Netflix Prize Dataseet).\" (PDF)" %}}
 
-Bardiner, Becky, Mahana Mansfield, et al. "[The Dark Side of Guardian Comments](https://www.theguardian.com/technology/2016/apr/12/the-dark-side-of-guardian-comments)," _The Guardian_, April 12, 2016.
+Bardiner, Becky, Mahana Mansfield, et al. "{{% resource_link "9c486873-dc5a-4224-bdcb-8018354fc952" "The Dark Side of Guardian Comments" %}}," _The Guardian_, April 12, 2016.

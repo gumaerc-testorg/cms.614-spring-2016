@@ -35,7 +35,7 @@ The scheduled activities consist of short lectures, seminar discussions, group e
 
 Engagement policy: All students are expected to attend the sessions and fully participate in group discussions, come prepared (having done the readings, bringing them to class, and being ready to be involved in our shared time), and be working at a serious level. Full participation means not simply attending, but being truly engaged; not only speaking, but also actively listening to fellow class members and engaging in conversation together.
 
-Library and research assistance: The work you do in this course requires you to be able to undertake social scientific literature searches (well beyond just "Googling") and evaluate those materials. The libraries offers useful help and advice for how to find relevant materials. See [MIT Libraries Research Support](http://libraries.mit.edu/research-support/) for assistance. You may also find the [research resources](http://tltaylor.com/teaching/research-resources-for-students/) I link to on my website of use.
+Library and research assistance: The work you do in this course requires you to be able to undertake social scientific literature searches (well beyond just "Googling") and evaluate those materials. The libraries offers useful help and advice for how to find relevant materials. See {{% resource_link "8bcd0fe7-b217-4a8a-a173-9dcf5f9db6c9" "MIT Libraries Research Support" %}} for assistance. You may also find the {{% resource_link "3e8adc5c-29cf-4ea4-bce7-e5967f166581" "research resources" %}} I link to on my website of use.
 
 Grading
 -------

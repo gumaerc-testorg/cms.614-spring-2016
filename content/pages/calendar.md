@@ -116,7 +116,7 @@ Trolling II
 Algorithms and Big Data I
 {{< tdclose >}}
 {{< tdopen >}}
-Event: "[Algorithms, Identity, and Society](http://news.mit.edu/2016/event-automation-steal-identity-0408)"
+Event: "{{% resource_link "39a36a9b-1388-47fc-b595-607009568ad6" "Algorithms, Identity, and Society" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Event: "[Algorithms, Identity, and Society](http://news.mit.edu/2016/event-autom
 Algorithms and Big Data II
 {{< tdclose >}}
 {{< tdopen >}}
-Optional Event: "[What Do People Do All Day?](http://cmsw.mit.edu/event/nick-seaver-what-do-people-do-all-day/)"
+Optional Event: "{{% resource_link "1679de24-ad73-4122-b891-c46caa879961" "What Do People Do All Day?" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
