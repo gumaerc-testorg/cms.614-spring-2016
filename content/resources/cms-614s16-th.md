@@ -10,8 +10,8 @@ file_type: image/jpeg
 image_metadata:
   caption: An elaborate Mr. Robot marketing display at South by Southwest (SXSW) in
     Austin, TX. Mr. Robot is an American television series that focuses on hacktivism,
-    a topic covered in this course. (Image courtesy of {{% resource_link "0fbefdc5-d64f-4bae-b585-899f92140649"
-    "Andrew Hyde" %}} on flickr. License CC BY.)
+    a topic covered in this course. (Image courtesy of [Andrew Hyde](https://www.flickr.com/photos/bouldair/)
+    on flickr. License CC BY.)
   credit: Image courtesy of Andrew Hyde on flickr. License CC BY.
   image-alt: A photo of a ferris wheel with the words, "Mr. Robot" on it. In the foreground
     are two walls plastered with posters from the TV series.

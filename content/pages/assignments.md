@@ -42,7 +42,7 @@ A key factor in this assignment is that you demonstrate _a rigorous, scholarly a
 
 ### Specs
 
-1.  You should engage with (i.e. draw on, cite, quote, be in conversation with) at least 5 peer-reviewed scholarly articles or books related to your topic. One can be drawn from our class readings but the additional ones should come from your independent lit search. If you are unsure of where to find good articles within this domain you can check out {{% resource_link "3e8adc5c-29cf-4ea4-bce7-e5967f166581" "my resource page" %}}. I encourage you to make use of the great reference librarians we have here at MIT.
+1.  You should engage with (i.e. draw on, cite, quote, be in conversation with) at least 5 peer-reviewed scholarly articles or books related to your topic. One can be drawn from our class readings but the additional ones should come from your independent lit search. If you are unsure of where to find good articles within this domain you can check out [my resource page](http://tltaylor.com/teaching/research-resources-for-students/). I encourage you to make use of the great reference librarians we have here at MIT.
 2.  You should pick an established format (such as MLA or Chicago) for quoting and citing work (see links at my Research Resource page noted above for guidance). You must also include a complete bibliography at the end of the essay.
 3.  Your overall word count for the piece should be 2500 words (for undergraduates) or 5000 words (for graduate students) (+/- 10% is fine).
 4.  You must submit the work as a printed, double-spaced, stapled paper.
